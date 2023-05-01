@@ -12,6 +12,11 @@ send wallet assets
 
 Next version added  transactions.
 
+version v1.0.1 update
+fixed a bug，
+Overwrite the original directory update
+
+
  If you have any questions during use, please send email to dosomethingforu@outlook.com
 
   
